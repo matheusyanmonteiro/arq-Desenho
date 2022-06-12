@@ -27,9 +27,12 @@ Crie uma nova issue seguindo as informações e instruções do documento de con
 &emsp;&emsp;Através dos arquivos de convenção de branch e conveção de commits, poderá ser feito a implemntação do git flow do projeto, de modo que para uma mudança alcançar a branch principal os processos deveram ser estritamente de acordo com os documentos de conveção anteriormente sitados, assim tornando possivel a ilustração abaixo: 
 
 <center>
+
 ![Git flow](../policy_md/images/gitflow-1.png)
 <figcaption>Imagem 1: Exemplo de fluxo de branch.</figcaption>
+
 </center>
+
 
 
 
