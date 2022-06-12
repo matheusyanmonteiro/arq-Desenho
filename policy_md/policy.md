@@ -6,7 +6,7 @@
 
 | Versão | Data       | Descrição                                          | Autor        |
 | ------ | ---------- | -------------------------------------------------- | ------------ |
-| 0.1    | 04/02/2022 | Criação da documentação sobre manual de Contribuição | Matheus Y. Monteiro |
+| 0.1    | 12/06/2022 | Criação da documentação sobre manual de Contribuição | Matheus Y. Monteiro |
 
 </center>
 
